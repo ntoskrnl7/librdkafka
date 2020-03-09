@@ -28,6 +28,7 @@
 
 #ifdef _MSC_VER
 #define RD_UNITTEST_QPC_OVERRIDES 1
+#define ENABLE_DEVEL 0
 #endif
 
 #include "rd.h"
